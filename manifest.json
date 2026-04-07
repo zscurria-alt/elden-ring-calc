@@ -1,0 +1,22 @@
+{
+  "name": "Elden Ring Build Calculator",
+  "short_name": "ER Calc",
+  "description": "The ultimate Elden Ring build planner — weapons, armor, talismans, physick, and damage calculations.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#110f0a",
+  "theme_color": "#d4a820",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
